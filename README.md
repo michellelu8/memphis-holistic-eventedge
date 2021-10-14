@@ -1,17 +1,25 @@
 # Project Repository
 
-This repository will be used for team projects.
 
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
+## Project Description
+In recent times, event planning can get convoluted and people can get confused as to when is what or what they have to bring. There's been several times when I have tried to plan events with friends, where some may be lost as to what the exact precise details are and there can endless times of tagging people in the group chat. So, this project will incorporate not just messaging but other accessory features as well such as creating the event right then and there in the group chat and the event would be create on Google Calendar. Another feature can be dedicating tasks to certain group mates, so no one has room to mess up.
 
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-1a-project-setup.md)
 
-1. See the [Sprint Planning instructions](instructions-1b-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
 
-1. See the [Front-End Development instructions](./instructions-2-front-end.md) for the requirements of the initial Front-End Development.
+## Core Members
+### Farhan Mashud
+### Isfar Oshir
+### Julius Nedzinskas 
+### Michelle Lu
+### Mohammed Nur Oddin
 
-1. See the [Back-End Development instructions](./instructions-3-back-end.md) for the requirements of the initial Back-End Development.
 
-1. See the [Database Integration instructions](./instructions-4-database.md) for the requirements of integrating a database into the back-end.
 
-1. See the [Deployment instructions](./instructions-5-deployment.md) for the requirements of deploying an app.
+## History and Contribution
+
+
+
+## How to Build and Test
+
+
+
